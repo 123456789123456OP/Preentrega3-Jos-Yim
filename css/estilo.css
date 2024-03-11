@@ -1,0 +1,42 @@
+/* Estilo del logo */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: Border-box;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+}
+
+.contenedor-productos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.producto {
+  width: 300px;
+  margin: 10px;
+}
+.producto img {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  background-color: white;
+}
+
+/*# sourceMappingURL=estilo.css.map */
